@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Project
-description: a project with a background image
+description: Instructor-led Training Projects
 img: /img/12.jpg
 ---
 
