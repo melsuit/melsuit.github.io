@@ -1,22 +1,13 @@
 ---
 layout: post
 title: Project
-description: Instructor-led Training Projects
-img: /img/12.jpg
+description: Instructor-Led Training Projects
+img: /img/FeatureProjectImages/ILTP Featured Image.jpg
 ---
 
-Every project has a beautiful feature shocase page. It's easy to include images, in a flexible 3-column grid format. Make your photos 1/3, 2/3, or full width.
+Click on the title to learn more about each project.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so: 
-
-	---
-	layout: post
-	title: Project
-	description: a project with a background image
-	img: /img/12.jpg
-	---
-
-
+<!-- 
 <div class="img_row">
 	<img class="col one" src="{{ site.baseurl }}/img/1.jpg" alt="" title="example image"/>
 	<img class="col one" src="{{ site.baseurl }}/img/2.jpg" alt="" title="example image"/>
@@ -52,4 +43,4 @@ The code is simple. Just add a col class to your image, and another class specif
 	<div class="img_row">
 	  <img class="col two" src="/img/6.jpg"/>
 	  <img class="col one" src="/img/11.jpg"/>
-	</div>
+	</div> -->
