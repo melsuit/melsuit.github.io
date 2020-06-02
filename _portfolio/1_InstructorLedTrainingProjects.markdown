@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Project
-description: Instructor-Led Training Projects
+title: Instructor-Led Training Projects
+description: Click to View Projects
 img: /img/FeatureProjectImages/ILTP Featured Image.jpg
 ---
 
