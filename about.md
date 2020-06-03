@@ -14,13 +14,13 @@ From the various projects that I have worked on, I have learned to evaluate the 
 I am a strong supporter of the lifelong learner mindset, and I am always eager to learn new skills and knowledge so I can continue to grow. I look forward to a new challenge every day. I have worked to stay current on the best instructional practices, technology, software, and learning pedagogies.
 
 Summary of Skills:
-<ul>
-    Learning Management Systems
-    Public Speaking and Program Facilitation
-    Detailed Oriented and Organized
-    Proficiency with Microsoft and Google Suite
-    Proficiency with eLearning Tools (Articulate Storyline, Adobe Illustrator, Snag-it, and Video Editing Software)
-    Project Management
+<ul style ="list-style'type:disc">
+    <li>Learning Management Systems</li>
+    <li>Public Speaking and Program Facilitation</li>
+    <li>Detailed Oriented and Organized</li>
+    <li>Proficiency with Microsoft and Google Suite</li>
+    <li>Proficiency with eLearning Tools (Articulate Storyline, Adobe Illustrator, Snag-it, and Video Editing Software)</li>
+    <li>Project Management</li>
 </ul>
 
 <br/>
@@ -29,7 +29,6 @@ Summary of Skills:
 <span class="contacticon center">
 	<a href="mailto:you@example.com"><i class="fa fa-envelope-square"></i></a>
 	<a href="https://www.linkedin.com" target="_blank"><i class="fa fa-linkedin-square"></i></a>
-	
 </span>
 
 <div class="col three caption">
