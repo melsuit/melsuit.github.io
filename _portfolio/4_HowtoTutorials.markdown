@@ -19,7 +19,7 @@ Click on the arrow next to the title to learn more about each project.
     <li>Solution: Create a Google Sheet that ran all of the analysis for me.</li>
     <li>Results: Self Grading Test and the ability to run all the analysis I needed for data collection.</li>
     <li>Background cont.: Once I worked out the bugs, I shared it with my fellow teachers who were also looking to move digital with their unit tests.</li>
-    </li>Problem: Sharing the spreadsheet and forms created a need for a tutorial on how to set-up and work the spreadsheet and forms.</li>
+    <li>Problem: Sharing the spreadsheet and forms created a need for a tutorial on how to set-up and work the spreadsheet and forms.</li>
     <li>Solution: Step by Step Directions along with How to Videos.</li>
     <li>Results: 4 out of the 7 science teachers transitioned to using Google Forms for their unit tests and used the Google Sheet for the analysis.</li>
     <li>This is only a subset of the Step by Step Directions and How to Videos.</li>
