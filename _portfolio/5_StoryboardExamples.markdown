@@ -6,7 +6,7 @@ img: /img/FeatureProjectImages/Storyboard Icon.jpg
 ---
 
 <div class="img_row">
-	<img class="col one" src="{{ site.baseurl }}/img/Storyboard/Storyboard Outline.jpg" alt="" title= "Storyboard Outline for Getting Started with Google Suite"/>
+	<img class="col one" src="{{ site.baseurl }}/img/Storyboard/Storyboard Outline.JPG" alt="" title= "Storyboard Outline for Getting Started with Google Suite"/>
 	<img class="col one" src="{{ site.baseurl }}/img/Storyboard/BSS.jpg" alt="" title= "Hiking Safety Branching Scenario Storyboard"/>
 	<img class="col one" src="{{ site.baseurl }}/img/Storyboard/Skype 101 Storyboard.jpg" alt="" title= "Skype 101 Storyboard"/>
 </div>
