@@ -8,13 +8,20 @@ img: /img/FeatureProjectImages/Ai n Ps Projects.jpg
  
 <div class="img_row">
 	<img class="col one" src="{{ site.baseurl }}/img/AinPSProjects/Needs Analysis.jpg" alt="" title="Needs Analysis Icon (Adobe Photoshop)"/>
+	<class="col one caption">
+	Needs Analysis Icon (Adobe Photoshop)
 	<img class="col two" src="{{ site.baseurl }}/img//AinPSProjects/Program Evaluation.jpg" alt="" title="Program Evaluation Icon (Adobe Illustrator & Photoshop)"/>
+	<class="col two caption">
+	Needs Analysis Icon (Adobe Photoshop)
 	<img class="col three" src="{{ site.baseurl }}/img//AinPSProjects/Report Icon.jpg" alt="" title="Report Icon (Adobe Illustrator)"/>
+	<class="col three caption">
+	Needs Analysis Icon (Adobe Photoshop)
 </div>
+<!--
 <div class="col one caption">
 	Needs Analysis Icon (Adobe Photoshop)
 </div>
-
+-->
 
 <!-- 
 <div class="img_row">
