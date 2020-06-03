@@ -1,15 +1,26 @@
 ---
 layout: page
-title: about
-permalink: /about/
+title: About Me & Resume
+permalink: /About Me & Resume/
 ---
 
 <img class="col one right" src="/img/prof_pic.jpg">
 
 <br/>
-Write your biography here. Tell the world about yourself. Link to your favorite <a href="http://reddit.com" target="blank">subreddit</a>. You can put a picture in, too. The code is already in, just name your picture "prof_pic.jpg" and put it in the img folder. 
+I am at a transition point in my career where I am looking to work solely with adult learners and focus more on Instructional Design and Training. I have five years of experience with various aspects of instructional design and training experience along with eleven years and six months of customer service experience. My master’s program has helped to polish my initial design skills by presenting frameworks, instructional models, and new technologies that provide support for what I was instinctively designing.
 
-Link to your social media connections, too. This theme is set up to use <a href="http://fortawesome.github.io/Font-Awesome/" target="blank">Font Awesome icons</a>, like the ones below. Add your facebook, twitter, linkedin, or just disable all of them. 
+From the various projects that I have worked on, I have learned to evaluate the needs of my clients and how to develop learner-focused engaging lessons, teaching aids, and other training materials. I design with all possible participants in mind which in turn has led me to embrace and incorporate aspects of Universal Design for Learning into all of my projects. I utilize backward design for my projects and build interactivity into the presentations to help with learner engagement. Learner motivation is tackled through clear learning objectives that link to participants’ daily career so they can see the worth of the training.
+
+I am a strong supporter of the lifelong learner mindset, and I am always eager to learn new skills and knowledge so I can continue to grow. I look forward to a new challenge every day. I have worked to stay current on the best instructional practices, technology, software, and learning pedagogies.
+
+Summary of Skills:
+
+    Learning Management Systems
+    Public Speaking and Program Facilitation
+    Detailed Oriented and Organized
+    Proficiency with Microsoft and Google Suite
+    Proficiency with eLearning Tools (Articulate Storyline, Adobe Illustrator, Snag-it, and Video Editing Software)
+    Project Management
 
 
 <br/>
@@ -17,13 +28,10 @@ Link to your social media connections, too. This theme is set up to use <a href=
 <br/>
 <span class="contacticon center">
 	<a href="mailto:you@example.com"><i class="fa fa-envelope-square"></i></a>
-	<a href="https://github.com" target="_blank"><i class="fa fa-github-square"></i></a>
 	<a href="https://www.linkedin.com" target="_blank"><i class="fa fa-linkedin-square"></i></a>
-	<a href="http://tumblr.com" target="_blank"><i class="fa fa-tumblr-square"></i></a>
-	<a href="https://twitter.com" target="_blank"><i class="fa fa-twitter-square"></i></a>
+	
 </span>
 
 <div class="col three caption">
-	You can even add a little note about which of these is the best way to reach you.
 </div>
 
