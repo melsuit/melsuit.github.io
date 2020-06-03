@@ -18,7 +18,8 @@ Click on the arrow next to the title to learn more about each project.
     <li>A handout with the strategies is needed before moving into the second set of scenarios </li>
     <li> After addressing the second set of scenarios need to address the issue that the strategies are not meant to work in isolation. </li>
     </ol>
-    </ul>
+    
+  </ul>
     Files
     <ul style="list-style'type:none">
     <li>
@@ -30,11 +31,28 @@ Click on the arrow next to the title to learn more about each project.
     </ul>
 </details>
 
-<!-- <details>
+ <details>
   <summary>DMV Licenses (Complex Topic)</summary>
    <ul style ="list-style'type:disc">
    <li> Onboarding Training for those working in the DMV. This is a very convoluted topic with most of the information previously presented in a FAQ format. </li>
    <li> Solution: A quick ten-minute training that presents the information and teaches the new trainees how to use a reference handout through scenario-based Q&A. </li>
+
+  </ul>
+    Files
+    <ul style="list-style'type:none">
+    <li>
+    <a href="/docs/InstructorLedTrainingProjects/DMVLicense/DMV SB251 License and IDs Training Script.docx" download> DMV SB251 License and IDs Training Script
+    </a></li>
+  <li>
+    <a href="/docs/InstructorLedTrainingProjects/DMVLicense/DMV SB251 License and IDs Training.pptx" download> DMV SB251 License and IDs Training Powerpoint
+    </a></li>
+  <li>
+    <a href="/docs/InstructorLedTrainingProjects/DMVLicense/Reference Sheet SB251 License & IDs.docx" download> Reference Sheet Handout
+    </a></li>
+  <li>
+    <a href="/docs/InstructorLedTrainingProjects/DMVLicense/DMV Source Information.docx" download> DMV Source Information
+    </a></li> 
+    </ul>
 </details>
 
 <details>
@@ -56,4 +74,4 @@ Click on the arrow next to the title to learn more about each project.
   <ul style ="list-style'type:disc">
   <li> Problem: New science standards are pushing for science teachers to use Inquiry in their classrooms. Most of the current science teachers did not experience Inquiry learning through their personal schooling or education program so they are not familiar with the concept or how to incorporate it into their course. </li>
   <li> Solution: Two-week workshop for teachers based out of an informal education facility (museum, aquarium, zoo, science center, etc). </li>
-</details> -->
+</details>
