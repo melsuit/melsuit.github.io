@@ -21,7 +21,7 @@ Click on the arrow next to the title to learn more about each project.
 </details>
 
 <details>
-  <summary> Writing Sample </summary>
+  <summary> Writing Samples </summary>
   <ul style ="list-style'type:disc">
     <li>A short exercise that shows a concise 1 pg writing sample for a new employee guide.</li>
   </ul>
