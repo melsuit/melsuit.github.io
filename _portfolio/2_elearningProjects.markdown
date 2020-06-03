@@ -58,10 +58,11 @@ Click on the arrow next to the title to learn more about each project.
     <li>
     <a href="/docs/eLearningProjects/GettingStartedwithGoogle/Seg 6 Final Script and Screenshot Capture.docx" download> Seg 6 Final Script and Screenshot Capture
     </a></li>
-    <li>
-    Youtube Playlist of Videos
-    </li>
     </ul>
+    <div style="text-align:center;">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLIovqUPKC1W1e2iCOZdP_TAy0IhSDS_-g" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    </div>
+    
 </details>
 
 <details>
@@ -80,10 +81,10 @@ Click on the arrow next to the title to learn more about each project.
     <li>
     <a href="/docs/eLearningProjects/Skype/Getting Started with Skype Articulate Script.docx" download> Getting Started with Skype Articulate Script
     </a></li>
-    <li>
-    StorylineFrame
-    </li>
     </ul>
+    <div style="text-align:center;">
+    <iframe src=" https://melsuit.github.io/getting-started-with-skype/story.html" scrolling="no" width="500px" height="500px" frameborder="0"></iframe>
+    </div>
 </details>
 
 <details>
@@ -94,8 +95,6 @@ Click on the arrow next to the title to learn more about each project.
   </ul>
     Files
     <ul style="list-style'type:none">
-    <li>
-    StorylineFrame
-    </li>
     </ul>
+    <a href=" https://melsuit.github.io/Classification-Unit/story.html" target=""> Click to open Storyline File</a>
 </details>
