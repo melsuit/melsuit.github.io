@@ -31,7 +31,9 @@ Click on the arrow next to the title to learn more about each project.
     <a href="/docs/How2Tutorials/How to Set-Up Unit Test Spreadsheet Directions.docx" download> How to Set-Up Unit Test Spreadsheet Directions
     </a></li>
     </ul>
+    <div style="text-align:center;">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLIovqUPKC1W0b1eXIA3fElvAnKbHRAvXj" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    </div>
 </details>
 
 <details>
