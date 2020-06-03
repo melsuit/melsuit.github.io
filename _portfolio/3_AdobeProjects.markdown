@@ -8,10 +8,15 @@ img: /img/FeatureProjectImages/Ai n Ps Projects.jpg
  
 <div class="img_row">
 	<img class="col one" src="{{ site.baseurl }}/img/AinPsProjects/Needs Analysis.jpg" alt="" title="Needs Analysis Icon (Adobe Photoshop)"/>
-	<img class="col one" src="{{ site.baseurl }}/img//AinPsProjects/Program Evaluation.jpg" alt="" title="Program Evaluation Icon (Adobe Illustrator & Photoshop)"/>
-	<img class="col one" src="{{ site.baseurl }}/img//AinPsProjects/Report Icon.jpg" alt="" title="Report Icon (Adobe Illustrator)"/>
+	<img class="col two" src="{{ site.baseurl }}/img//AinPsProjects/Program Evaluation.jpg" alt="" title="Program Evaluation Icon (Adobe Illustrator & Photoshop)"/>
+	<img class="col three" src="{{ site.baseurl }}/img//AinPsProjects/Report Icon.jpg" alt="" title="Report Icon (Adobe Illustrator)"/>
+</div>
+<div class="col one caption">
+	Needs Analysis Icon (Adobe Photoshop)
 </div>
 
+
+<!-- 
 <div class="img_row">
 	<img class="col three" src="{{ site.baseurl }}/img/5.jpg" alt="" title="example image"/>
 </div>
@@ -39,4 +44,4 @@ The code is simple. Just add a col class to your image, and another class specif
 	<div class="img_row">
 	  <img class="col two" src="/img/6.jpg"/>
 	  <img class="col one" src="/img/11.jpg"/>
-	</div> 
+	</div>  -->
