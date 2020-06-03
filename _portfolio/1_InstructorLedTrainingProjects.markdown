@@ -8,7 +8,7 @@ img: /img/FeatureProjectImages/ILTP Featured Image.jpg
 Click on the arrow next to the title to learn more about each project.
 
 <details>
-  <summary>Conflic Management for Leadership</summary>
+  <summary> **Conflic Management for Leadership** </summary>
   <ul style ="list-style'type:disc">
     <li>Problem: Any time people have to work together in a team, conflict is bound to arise. Some team members need outside help to settle the conflict and go to their leadership. </li>
     <li>Solution: Quick micro presentation on recognizing conflict and strategies to help deal with it. </li>
