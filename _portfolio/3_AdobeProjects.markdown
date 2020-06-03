@@ -7,53 +7,48 @@ img: /img/FeatureProjectImages/Ai n Ps Projects.jpg
 
  
 <div class="img_row">
-	<img class="col one" src="{{ site.baseurl }}/img/AinPSProjects/Needs Analysis.jpg" alt="Needs Analysis Icon (Adobe Photoshop)"/>
-	<img class="col one" src="{{ site.baseurl }}/img//AinPSProjects/Program Evaluation.jpg" alt="Program Evaluation Icon (Adobe Illustrator & Photoshop)"/>
-	<img class="col one" src="{{ site.baseurl }}/img//AinPSProjects/Report Icon.jpg" alt="Report Icon (Adobe Illustrator)"/>
+	<img class="col one" src="{{ site.baseurl }}/img/AinPSProjects/Needs Analysis.jpg" alt="" title= "Needs Analysis Icon (Adobe Photoshop)"/>
+	<img class="col one" src="{{ site.baseurl }}/img//AinPSProjects/Program Evaluation.jpg" alt="" title= "Program Evaluation Icon (Adobe Illustrator & Photoshop)"/>
+	<img class="col one" src="{{ site.baseurl }}/img//AinPSProjects/Report Icon.jpg" alt="" title= "Report Icon (Adobe Illustrator)"/>
 </div>
 <div class="three">
 	<div class="col one caption">
-		This image can also have a caption. It's like magic. 
+		Needs Analysis Icon (Adobe Photoshop)
 	</div>
 	<div class="col one caption">
-		This image can also have a caption. It's like magic. 
+		Program Evaluation Icon (Adobe Illustrator & Photoshop)
 	</div>
 	<div class="col one caption">
-		This image can also have a caption. It's like magic. 
+		Report Icon (Adobe Illustrator)
 	</div>
 </div>
-<!--
-<div class="col one caption">
-	Needs Analysis Icon (Adobe Photoshop)
-</div>
--->
-
-<!-- 
-<div class="img_row">
-	<img class="col three" src="{{ site.baseurl }}/img/5.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-	This image can also have a caption. It's like magic. 
-</div>
-
-You can also put regular text between your rows of images. Say you wanted to write a little bit about your project before you posted the rest of the images. You describe how you toiled, sweated, *bled* for your project, and then.... you reveal it's glory in the next row of images.
-
 
 <div class="img_row">
-	<img class="col two" src="{{ site.baseurl }}/img/6.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/11.jpg" alt="" title="example image"/>
+	<img class="col one" src="{{ site.baseurl }}/img/AinPSProjects/Storyboard Icon.jpg" alt="" title= "Storyboard Icon (Adobe Illustrator)"/>
+	<img class="col one" src="{{ site.baseurl }}/img//AinPSProjects/Technical Writing Paper Icon.jpg" alt="" title= "Technical Writing Icon (Adobe Illustrator)"/>
+	<img class="col one" src="{{ site.baseurl }}/img//AinPSProjects/Tutorial Icon.jpg" alt="" title= "Tutorial Icon (Adobe Photoshop)"/>
 </div>
-<div class="col three caption">
-	You can also have artistically styled 2/3 + 1/3 images, like these.
+<div class="three">
+	<div class="col one caption">
+		Storyboard Icon (Adobe Illustrator)
+	</div>
+	<div class="col one caption">
+		Technical Writing Icon (Adobe Illustrator)
+	</div>
+	<div class="col one caption">
+		Tutorial Icon (Adobe Photoshop)
+	</div>
 </div>
 
-
-<br/><br/><br/>
-
-
-The code is simple. Just add a col class to your image, and another class specifying the width: one, two, or three columns wide. Here's the code for the last row of images above: 
-
-	<div class="img_row">
-	  <img class="col two" src="/img/6.jpg"/>
-	  <img class="col one" src="/img/11.jpg"/>
-	</div>  -->
+<div class="img_row">
+	<img class="col one" src="{{ site.baseurl }}/img/AinPSProjects/SECME.jpg" alt="" title= "Club Advertisement Flier (Adobe Photoshop)"/>
+	<img class="col one" src="{{ site.baseurl }}/img//AinPSProjects/WTM.jpg" alt="" title= "Big Concepts of Module Infographic (Adobe Photoshop)"/>
+</div>
+<div class="three">
+	<div class="col one caption">
+		Club Advertisement Flier (Adobe Photoshop)
+	</div>
+	<div class="col one caption">
+		Big Concepts of Module Infographic (Adobe Photoshop)
+	</div>
+</div>
