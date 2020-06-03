@@ -8,7 +8,7 @@ img: /img/FeatureProjectImages/Needs Analysis and Program Evaluation.jpg
 Click on the arrow next to the title to learn more about each project. 
 
 <details>
-  <summary><b>Needs Analysis</b></summary>
+  <summary>Needs Analysis</summary>
   <u>Student Skills Needs Analysis</u>
   <ul style ="list-style'type:disc">
     <li>Each year that I taught one of the first things I did upon meeting my students was to conduct a needs analysis to guide the decisions that would be made through the year. Here is an example from my first year of teaching.</li>
@@ -32,7 +32,7 @@ Click on the arrow next to the title to learn more about each project.
 </details>
 
 <details>
-  <summary><b>Program Evaluation</b></summary>
+  <summary>Program Evaluation</summary>
   <u>Environmental Science Course Evaluation</u>
   <ul style ="list-style'type:disc">
     <li>A program evaluation that I wrote as part of my Master’s Degree. It is based on my first teaching experience and the program that I was teaching.</li>
