@@ -22,7 +22,9 @@ Summary of Skills:
     <li>Proficiency with eLearning Tools (Articulate Storyline, Adobe Illustrator, Snag-it, and Video Editing Software)</li>
     <li>Project Management</li>
 </ul>
-
+Resume
+<a href="/docs/Melissa Suit Resume.pdf" download> Melissa Suit Resume
+    </a>
 <br/>
 <hr/>
 <br/>
