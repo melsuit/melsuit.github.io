@@ -36,7 +36,7 @@ Click on the arrow next to the title to learn more about each project.
 <details>
   <summary> How to Create Line Graphs Using Google Suite </summary>
   <ul style ="list-style'type:disc">
-    <li>Problem: Any time people have to work togeQuick step by step tutorial for creating line graphs using Google Suite. Created for 6-9th grade students, several teachers also found it useful as they transitioned away from the Microsoft Suite.</li>
+    <li>Quick step by step tutorial for creating line graphs using Google Suite. Created for 6-9th grade students, several teachers also found it useful as they transitioned away from the Microsoft Suite.</li>
   </ul>
     Files
     <ul style="list-style'type:none">
