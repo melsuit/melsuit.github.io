@@ -44,7 +44,7 @@ Click on the arrow next to the title to learn more about each project.
     <a href="/docs/eLearningProjects/GettingStartedwithGoogle/Seg 1 Final Script and Screenshot Capture.docx" download> Seg 1 Final Script and Screenshot Capture
     </a></li>
     <li>
-    <a href="/docs/eLearningProjects/GettingStartedwithGoogle/Seg 2 Final Script and Screenshot Capture.docx" download> Seg 2 Final Script and Screenshot Capture" 
+    <a href="/docs/eLearningProjects/GettingStartedwithGoogle/Seg 2 Final Script and Screenshot Capture.docx" download> Seg 2 Final Script and Screenshot Capture 
     </a></li>
     <li>
     <a href="/docs/eLearningProjects/GettingStartedwithGoogle/Seg 3 Final Script and Screenshot Capture.docx" download> Seg 3 Final Script and Screenshot Capture
