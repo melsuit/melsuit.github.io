@@ -9,7 +9,7 @@ twitter_username: # twitter_username
 github_username:  melsuit
 
 # Build settings
-markdown: GFM
+markdown: CommonMarkGhPages
 
 highlighter: rouge
 
