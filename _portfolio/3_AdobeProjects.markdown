@@ -7,9 +7,9 @@ img: /img/FeatureProjectImages/Ai n Ps Projects.jpg
 
  
 <div class="img_row">
-	<img class="col one" src="{{ site.baseurl }}/img/AinPsProjects/Needs Analysis.jpg" alt="" title="Needs Analysis Icon (Adobe Photoshop)"/>
-	<img class="col two" src="{{ site.baseurl }}/img//AinPsProjects/Program Evaluation.jpg" alt="" title="Program Evaluation Icon (Adobe Illustrator & Photoshop)"/>
-	<img class="col three" src="{{ site.baseurl }}/img//AinPsProjects/Report Icon.jpg" alt="" title="Report Icon (Adobe Illustrator)"/>
+	<img class="col one" src="{{ site.baseurl }}/img/AinPSProjects/Needs Analysis.jpg" alt="" title="Needs Analysis Icon (Adobe Photoshop)"/>
+	<img class="col two" src="{{ site.baseurl }}/img//AinPSProjects/Program Evaluation.jpg" alt="" title="Program Evaluation Icon (Adobe Illustrator & Photoshop)"/>
+	<img class="col three" src="{{ site.baseurl }}/img//AinPSProjects/Report Icon.jpg" alt="" title="Report Icon (Adobe Illustrator)"/>
 </div>
 <div class="col one caption">
 	Needs Analysis Icon (Adobe Photoshop)
