@@ -80,7 +80,9 @@ Click on the arrow next to the title to learn more about each project.
     <a href="/docs/eLearningProjects/Skype/Getting Started with Skype Articulate Script.docx" download> Getting Started with Skype Articulate Script
     </a></li>
     </ul>
+    <div style="text-align:center;">
     <iframe src=" https://melsuit.github.io/getting-started-with-skype/story.html" scrolling="no" width="500px" height="500px" frameborder="0"></iframe>
+    </div>
 </details>
 
 <details>
@@ -92,5 +94,7 @@ Click on the arrow next to the title to learn more about each project.
     Files
     <ul style="list-style'type:none">
     </ul>
+    <div style="text-align:center;">
     <iframe src=" https://melsuit.github.io/Classification-Unit/story.html" scrolling="no" width="500px" height="500px" frameborder="0"></iframe>
+    </div>
 </details>
