@@ -23,7 +23,7 @@ Click on the arrow next to the title to learn more about each project.
     </a>
 </details>
 
-<details>
+<!-- <details>
   <summary>DMV Licenses (Complex Topic)</summary>
    <ul style ="list-style'type:disc">
    <li> Onboarding Training for those working in the DMV. This is a very convoluted topic with most of the information previously presented in a FAQ format. </li>
@@ -49,4 +49,4 @@ Click on the arrow next to the title to learn more about each project.
   <ul style ="list-style'type:disc">
   <li> Problem: New science standards are pushing for science teachers to use Inquiry in their classrooms. Most of the current science teachers did not experience Inquiry learning through their personal schooling or education program so they are not familiar with the concept or how to incorporate it into their course. </li>
   <li> Solution: Two-week workshop for teachers based out of an informal education facility (museum, aquarium, zoo, science center, etc). </li>
-</details>
+</details> -->
