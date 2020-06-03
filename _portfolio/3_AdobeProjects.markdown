@@ -7,20 +7,20 @@ img: /img/FeatureProjectImages/Ai n Ps Projects.jpg
 
  
 <div class="img_row">
-	<img class="col one" src="{{ site.baseurl }}/img/AinPSProjects/Needs Analysis.jpg" alt="" title= "Needs Analysis Icon (Adobe Photoshop)"/>
-	<img class="col one" src="{{ site.baseurl }}/img//AinPSProjects/Program Evaluation.jpg" alt="" title= "Program Evaluation Icon (Adobe Illustrator & Photoshop)"/>
-	<img class="col one" src="{{ site.baseurl }}/img//AinPSProjects/Report Icon.jpg" alt="" title= "Report Icon (Adobe Illustrator)"/>
+	<img class="col half" src="{{ site.baseurl }}/img/AinPSProjects/Needs Analysis.jpg" alt="" title= "Needs Analysis Icon (Adobe Photoshop)"/>
+	<img class="col half" src="{{ site.baseurl }}/img//AinPSProjects/Program Evaluation.jpg" alt="" title= "Program Evaluation Icon (Adobe Illustrator & Photoshop)"/>
+	<!-- <img class="col auto" src="{{ site.baseurl }}/img//AinPSProjects/Report Icon.jpg" alt="" title= "Report Icon (Adobe Illustrator)"/> -->
 </div>
 <div class="three">
-	<div class="col one caption">
+	<div class="col half caption">
 		Needs Analysis Icon (Adobe Photoshop)
 	</div>
-	<div class="col one caption">
+	<div class="col half caption">
 		Program Evaluation Icon (Adobe Illustrator & Photoshop)
 	</div>
-	<div class="col one caption">
+	<!-- <div class="col one caption">
 		Report Icon (Adobe Illustrator)
-	</div>
+	</div> -->
 </div>
 
 <div class="img_row">
