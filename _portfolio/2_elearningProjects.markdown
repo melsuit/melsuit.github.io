@@ -96,5 +96,5 @@ Click on the arrow next to the title to learn more about each project.
     Files
     <ul style="list-style'type:none">
     </ul>
-    <iframe src=" https://melsuit.github.io/Classification-Unit/story.html" scrolling="no" width="1000px" height="1000px" frameborder="0"></iframe>
+    <a href=" https://melsuit.github.io/Classification-Unit/story.html" target=""> Click to open Storyline File</a>
 </details>
