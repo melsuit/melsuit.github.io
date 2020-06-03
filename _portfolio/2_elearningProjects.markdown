@@ -79,10 +79,8 @@ Click on the arrow next to the title to learn more about each project.
     <li>
     <a href="/docs/eLearningProjects/Skype/Getting Started with Skype Articulate Script.docx" download> Getting Started with Skype Articulate Script
     </a></li>
-    <li>
-    StorylineFrame
-    </li>
     </ul>
+    <iframe src=" https://melsuit.github.io/getting-started-with-skype/story.html" scrolling="no" width="500px" height="500px" frameborder="0"></iframe>
 </details>
 
 <details>
