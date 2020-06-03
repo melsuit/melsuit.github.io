@@ -59,7 +59,9 @@ Click on the arrow next to the title to learn more about each project.
     <a href="/docs/eLearningProjects/GettingStartedwithGoogle/Seg 6 Final Script and Screenshot Capture.docx" download> Seg 6 Final Script and Screenshot Capture
     </a></li>
     </ul>
+    <div style="text-align:center;">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLIovqUPKC1W1e2iCOZdP_TAy0IhSDS_-g" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    </div>
     
 </details>
 
