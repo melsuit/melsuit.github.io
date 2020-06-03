@@ -8,7 +8,7 @@ img: /img/FeatureProjectImages/ILTP Featured Image.jpg
 Click on the arrow next to the title to learn more about each project.
 
 <details>
-  <summary>Conflic Management for Leadership</summary>
+  <summary><h>Conflic Management for Leadership</h></summary>
   <ul style ="list-style'type:disc">
     <li>Problem: Any time people have to work together in a team, conflict is bound to arise. Some team members need outside help to settle the conflict and go to their leadership. </li>
     <li>Solution: Quick micro presentation on recognizing conflict and strategies to help deal with it. </li>
@@ -60,6 +60,13 @@ Click on the arrow next to the title to learn more about each project.
   <ul style ="list-style'type:disc">
   <li> Problem: Corporations are moving to new instant messengers that a portion of their employee base does not know how to use. </li>
   <li> Solution: An Instructor-Led training for how to get started with Skype. Includes a Trainer’s guide. </li>
+  </ul>
+    Files
+    <ul style="list-style'type:none">
+    <li>
+    <a href="/docs/InstructorLedTrainingProjects/DMVLicense/DMV SB251 License and IDs Training Script.docx" download> DMV SB251 License and IDs Training Script
+    </a></li>
+    </ul>
 </details>
 
 <details>
