@@ -27,8 +27,8 @@ Summary of Skills:
 <hr/>
 <br/>
 <span class="contacticon center">
-	<a href="mailto:you@example.com"><i class="fa fa-envelope-square"></i></a>
-	<a href="https://www.linkedin.com" target="_blank"><i class="fa fa-linkedin-square"></i></a>
+	<a href="mailto:MelSuit73@gmail.com"><i class="fa fa-envelope-square"></i></a>
+	<a href="https://www.linkedin.com/in/melissa-suit-33a601183" target="_blank"><i class="fa fa-linkedin-square"></i></a>
 </span>
 
 <div class="col three caption">
