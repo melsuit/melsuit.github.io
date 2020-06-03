@@ -9,7 +9,7 @@ Click on the arrow next to the title to learn more about each project.
 
 <details>
   <summary> Needs Analysis </summary>
-  Student Skills Needs Analysis
+  <u>Student Skills Needs Analysis</u>
   <ul style ="list-style'type:disc">
     <li>Each year that I taught one of the first things I did upon meeting my students was to conduct a needs analysis to guide the decisions that would be made through the year. Here is an example from my first year of teaching.</li>
   </ul>
