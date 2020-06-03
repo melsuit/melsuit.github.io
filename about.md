@@ -4,7 +4,7 @@ title: About Me & Resume
 permalink: /About Me & Resume/
 ---
 
-<img class="col one right" src="/img/prof_pic.jpg">
+<img class="col one right" src="/img/Me.jpg">
 
 <br/>
 I am at a transition point in my career where I am looking to work solely with adult learners and focus more on Instructional Design and Training. I have five years of experience with various aspects of instructional design and training experience along with eleven years and six months of customer service experience. My master’s program has helped to polish my initial design skills by presenting frameworks, instructional models, and new technologies that provide support for what I was instinctively designing.
@@ -14,14 +14,14 @@ From the various projects that I have worked on, I have learned to evaluate the 
 I am a strong supporter of the lifelong learner mindset, and I am always eager to learn new skills and knowledge so I can continue to grow. I look forward to a new challenge every day. I have worked to stay current on the best instructional practices, technology, software, and learning pedagogies.
 
 Summary of Skills:
-
+<ul>
     Learning Management Systems
     Public Speaking and Program Facilitation
     Detailed Oriented and Organized
     Proficiency with Microsoft and Google Suite
     Proficiency with eLearning Tools (Articulate Storyline, Adobe Illustrator, Snag-it, and Video Editing Software)
     Project Management
-
+</ul>
 
 <br/>
 <hr/>
