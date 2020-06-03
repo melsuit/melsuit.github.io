@@ -19,8 +19,15 @@ Click on the arrow next to the title to learn more about each project.
     <li> After addressing the second set of scenarios need to address the issue that the strategies are not meant to work in isolation. </li>
     </ol>
     </ul>
+    Files
+    <ul style="list-style'type:none">
+    <li>
     <a href="/docs/InstructorLedTrainingProjects/ConManTrain4Leadership/Conflict Management Training for Leadership.pptx" download> Conflict Management Training for Leadership Powerpoint
-    </a>
+    </a></li>
+  <li>
+    <a href="/docs/InstructorLedTrainingProjects/ConManTrain4Leadership/Conflict Management for Leadership Instructor-Led Training Script.docx" download> Conflict Management for Leadership Instructor-Led Training Script
+    </a></li>
+    </ul>
 </details>
 
 <!-- <details>
