@@ -11,6 +11,17 @@ img: /img/FeatureProjectImages/Ai n Ps Projects.jpg
 	<img class="col two" src="{{ site.baseurl }}/img//AinPSProjects/Program Evaluation.jpg" alt="Program Evaluation Icon (Adobe Illustrator & Photoshop)" title="Program Evaluation Icon (Adobe Illustrator & Photoshop)"/>
 	<img class="col three" src="{{ site.baseurl }}/img//AinPSProjects/Report Icon.jpg" alt="Report Icon (Adobe Illustrator)" title="Report Icon (Adobe Illustrator)"/>
 </div>
+<div class="three">
+	<div class="col one caption">
+		This image can also have a caption. It's like magic. 
+	</div>
+	<div class="col one caption">
+		This image can also have a caption. It's like magic. 
+	</div>
+	<div class="col one caption">
+		This image can also have a caption. It's like magic. 
+	</div>
+</div>
 <!--
 <div class="col one caption">
 	Needs Analysis Icon (Adobe Photoshop)
