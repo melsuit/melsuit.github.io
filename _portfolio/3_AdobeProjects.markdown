@@ -59,3 +59,15 @@ img: /img/FeatureProjectImages/Ai n Ps Projects.jpg
 		Tutorial Icon (Adobe Photoshop)
 	</div>
 </div>
+
+<div class="img_row">
+	<img class="col one" src="{{ site.baseurl }}/img//AinPSProjects/Correct Icon.jpg" alt="" title= "Correct Icon (Adobe Photoshop)"/> 
+	<img class="col one" src="{{ site.baseurl }}/img/AinPSProjects/Incorrect Icon.jpg" alt="" title= "Incorrect Icon (Adobe Photoshop)"/>
+</div>
+<div class="three">
+	<div class="col one caption">
+		Correct Icon (Adobe Photoshop)
+	</div>
+	<div class="col one caption">
+		Incorrect Icon (Adobe Photoshop)
+	</div>
