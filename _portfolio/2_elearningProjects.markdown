@@ -21,6 +21,7 @@ Click on the arrow next to the title to learn more about each project.
     <li>
     <a href="/docs/eLearningProjects/ConflictManagement4Leader/Conflict Management for Leadership eLearning Script.docx" download> Conflict Management for Leadership eLearning Script
     </a></li>
+    <li>
     <a href="/docs/eLearningProjects/ConflictManagement4Leader/Image Credits.docx" download> Image Credits
     </a></li>
     </ul>
