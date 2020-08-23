@@ -8,7 +8,7 @@ img: /img/FeatureProjectImages/ELP Feature Image.jpg
 Click on the arrow next to the title to learn more about each project. 
 
 <details>
-  <summary> Conflict Management for Leadership - Work in Progress </summary>
+  <summary> Conflict Management for Leadership </summary>
   <ul style ="list-style'type:disc">
     <li>After creating my instructor-led version I was inspired to try a twist on a treasure map approach for an eLearning module.</li>
     <li>Problem: Any time people have to work together in a team, conflict is bound to arise. Some team members need outside help to settle the conflict and go to their leadership.</li>
