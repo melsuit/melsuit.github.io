@@ -53,10 +53,14 @@ img: /img/FeatureProjectImages/Ai n Ps Projects.jpg
 
 <div class="img_row">
 	<img class="col half" src="{{ site.baseurl }}/img//AinPSProjects/Tutorial Icon.jpg" alt="" title= "Tutorial Icon (Adobe Photoshop)"/>
+	<img class="col half" src="{{ site.baseurl }}/img//AinPSProjects/Tablet on Desk.jpg" alt="" title= "Tablet on Desk (Adobe Photoshop)"/>
 </div>
 <div class="three">
 	<div class="col half caption">
 		Tutorial Icon (Adobe Photoshop)
+	</div>
+	<div class="col half caption">
+		Tablet on Desk (Adobe Photoshop)
 	</div>
 </div>
 
