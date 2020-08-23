@@ -24,9 +24,9 @@ Click on the arrow next to the title to learn more about each project.
     <li>
     <a href="/docs/eLearningProjects/ConflictManagement4Leader/Image Credits.docx" download> Image Credits
     </a></li>
-    </ul>
-    <ul>
+    <li>    
     <a href=" https://melsuit.github.io/CM4L/story.html" target=""> Click to open Storyline File</a>
+    </li>
     </ul>
 </details>
 
@@ -101,8 +101,8 @@ Click on the arrow next to the title to learn more about each project.
   </ul>
     Files
     <ul style="list-style'type:none">
-    </ul>
-    <ul>
+    <li>
     <a href=" https://melsuit.github.io/Classification-Unit/story.html" target=""> Click to open Storyline File</a>
+    </li>
     </ul>
 </details>
