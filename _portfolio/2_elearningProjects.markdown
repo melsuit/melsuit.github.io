@@ -97,7 +97,7 @@ Click on the arrow next to the title to learn more about each project.
 <details>
   <summary> Articulate Storyline: Classification Unit </summary>
   <ul style ="list-style'type:disc">
-    <li>Originally this was designed for an Instructor-Led class. It is based on the conceptual change model. I migrated the lesson over to an eLearning opportunity for a few students who where suspended for the entire unit, so they could work on it at home and stay caught up with the class. </li>
+    <li>Originally this was designed for an Instructor-Led class. It is based on the conceptual change model. I migrated the lesson over to an eLearning opportunity for a few students who were suspended for the entire unit, so they could work on it at home and stay caught up with the class. </li>
     <li>Technology Used: Articulate Storyline 2 </li>
   </ul>
     Files
