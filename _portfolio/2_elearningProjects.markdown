@@ -12,6 +12,7 @@ Click on the arrow next to the title to learn more about each project.
   <ul style ="list-style'type:disc">
     <li>After creating my instructor-led version I was inspired to try a twist on a treasure map approach for an eLearning module.</li>
     <li>Problem: Any time people have to work together in a team, conflict is bound to arise. Some team members need outside help to settle the conflict and go to their leadership.</li>
+    <li>Technology Used: Microsoft Word, Audacity, Adobe Photoshop, Articulate 360</li>
   </ul>
     Files
     <ul style="list-style'type:none">
@@ -25,7 +26,7 @@ Click on the arrow next to the title to learn more about each project.
     <a href="/docs/eLearningProjects/ConflictManagement4Leader/Image Credits.docx" download> Image Credits
     </a></li>
     <li>    
-    <a href=" https://melsuit.github.io/CM4L/story.html" target=""> Click to open Storyline File</a>
+    <a href=" https://melsuit.github.io/CM4L/story.html" target=""> Articulate Storyline File </a>
     </li>
     </ul>
 </details>
@@ -77,7 +78,7 @@ Click on the arrow next to the title to learn more about each project.
     <li>Problem: Corporations are moving to new instant messengers that a portion of their employee base does not know how to use.</li>
     <li>Solution: An Instructor-Led training for how to get started with Skype. Includes a Trainer’s guide.</li>
     <li>Results: The three-person demo group became proficient in communicating with Skype and using the features described after watching the training.</li>
-    <li>Technology Used: Articulate Storyline, Apowersoft Online Screen Recorder</li>
+    <li>Technology Used: Articulate Storyline 360, Apowersoft Online Screen Recorder</li>
   </ul>
     Files
     <ul style="list-style'type:none">
@@ -96,13 +97,13 @@ Click on the arrow next to the title to learn more about each project.
 <details>
   <summary> Articulate Storyline: Classification Unit </summary>
   <ul style ="list-style'type:disc">
-    <li>Originally this was designed for an Instructor-Led class. It is based on the conceptual change model. The conceptual change model helps teachers teach for conceptual change. Student’s misconceptions of a subject are documented at the very beginning of a lesson; during phase one (commit to a position). Students then share their position, during expose beliefs (phase two); this is a type of assessment that will allow the teacher to know where their students stand and how the lesson needs to be tailored through guiding questions to create dissatisfaction with the student’s current views. This dissatisfaction is accomplished during phase three (confront beliefs). This phase generally utilizes an experiment or activity that will allow students to test their beliefs and realize that they are wrong and wonder why, or that they are right and provide support. Once the dissatisfaction is created the model moves into phase four (accommodate the concept). This is where the concept can be introduced through lecture or discussion of what the students observed. Once the students have the basics of the concept then they work on extending the concept, phase five, by going back to the original experiment or activity and working through it with the new understanding. The final phase, go beyond, allows students to apply their knowledge to a completely new problem that is based on the same concept, or a similar one which will transition the students into a new cycle.</li>
-    <li>Then the lesson was changed to an eLearning opportunity.</li>
+    <li>Originally this was designed for an Instructor-Led class. It is based on the conceptual change model. I migrated the lesson over to an eLearning opportunity for a few students who where suspended for the entire unit, so they could work on it at home and stay caught up with the class. </li>
+    <li>Technology Used: Articulate Storyline 2 </li>
   </ul>
     Files
     <ul style="list-style'type:none">
     <li>
-    <a href=" https://melsuit.github.io/Classification-Unit/story.html" target=""> Click to open Storyline File</a>
+    <a href=" https://melsuit.github.io/Classification-Unit/story.html" target=""> Articulate Storyline File </a>
     </li>
     </ul>
 </details>
