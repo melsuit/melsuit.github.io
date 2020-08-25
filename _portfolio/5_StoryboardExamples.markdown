@@ -24,9 +24,13 @@ img: /img/FeatureProjectImages/Storyboard Icon.jpg
 
 <div class="img_row">
 	<img class="col one" src="{{ site.baseurl }}/img/Storyboard/Getting Started with Skype Articulate eLearning Storyboard.jpg" alt="" title= "Getting Started with Skype eLearning Storyboard"/>
+	<img class="col one" src="{{ site.baseurl }}/img/Storyboard/Idea Board_Basic Outline.jpg" alt="" title= "Conflict Management for Leadership Storyboard"/>
 </div>
 <div class="three">
 	<div class="col one caption">
 		Getting Started with Skype eLearning Storyboard
+	</div>
+	<div class ="col one caption">
+		Conflict Management for Leadership Storyboard
 	</div>
 </div>
