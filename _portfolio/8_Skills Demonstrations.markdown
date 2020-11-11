@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Skills Demonstrations
+title: Skills Demos
 description: Click to View Projects
 img: /img/FeatureProjectImages/Film Strip.jpg
 ---
