@@ -1,46 +1,57 @@
 ---
 layout: post
-title: Needs Analysis & Program Evaluation
+title: Skills Demonstrations
 description: Click to View Projects
-img: /img/FeatureProjectImages/Needs Analysis and Program Evaluation.jpg
+img: /img/FeatureProjectImages/Film Strip.jpg
 ---
 
-Click on the arrow next to the title to learn more about each project. 
+Click on the arrow next to the category to see a skill breakdown. 
 
 <details>
-  <summary>Needs Analysis</summary>
-  <u>Student Skills Needs Analysis</u>
+  <summary>Articulate Storyline</summary>
+  <u>Branching</u>
   <ul style ="list-style'type:disc">
-    <li>Each year that I taught one of the first things I did upon meeting my students was to conduct a needs analysis to guide the decisions that would be made through the year. Here is an example from my first year of teaching.</li>
+    <li>Through the use of triggers depending on how the user response depends on where they are directed to next for the lesson.</li>
   </ul>
-    Files
-    <ul style="list-style'type:none">
-    <li>
-    <a href="/docs/NeedsAnalysisProgramEvaluation/Seminole HS Environmental Science Student Needs Assessment.docx" download> Seminole HS Environmental Science Student Needs Assessment
-    </a></li>
-    </ul>
-  <u>Teacher Technology Needs Analysis</u>
+    <div style="text-align:center;">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/iBrhV_X566Y" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    </div>
+
+  <u>Triggers, Overlays, and Assessment</u>
   <ul style ="list-style'type:disc">
-    <li>Needs analysis that I conducted when I started working with my fellow teachers to help fill their technology gaps.</li>
-  </ul>
-    Files
-    <ul style="list-style'type:none">
-    <li>
-    <a href="/docs/NeedsAnalysisProgramEvaluation/Timber Springs MS Science Teachers Technology Needs Assessment.docx" download> Timber Springs MS Science Teachers Technology Needs Assessment
-    </a></li>
-    </ul>
+    <li>Short scene from Conflict Management for Leadership that utilizes triggers to progress the scene, overlays of multiple text boxes and character on a single slide, along with a check for understanding assessment.</li>
+    <div style="text-align:center;">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/JjsJRO75p04" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    </div>
+
 </details>
 
 <details>
-  <summary>Program Evaluation</summary>
-  <u>Environmental Science Course Evaluation</u>
-  <ul style ="list-style'type:disc">
-    <li>A program evaluation that I wrote as part of my Master’s Degree. It is based on my first teaching experience and the program that I was teaching.</li>
-  </ul>
-    Files
-    <ul style="list-style'type:none">
-    <li>
-    <a href="/docs/NeedsAnalysisProgramEvaluation/Program Evaluation Environmental Science" download> Program Evaluation Environmental Science
-    </a></li>
-    </ul>
+
+  <summary>Video Editing</summary>
+  <u>Deleting a Segment</u>
+    <div style="text-align:center;">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/7vO9wq4YaZA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    </div>
+
+  <u>Extending Slide to Match Audio</u>
+    <div style="text-align:center;">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/lyKQtFMv0TE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    </div>
+
+  <u>Replacing Segment and Audio</u>
+    <div style="text-align:center;">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/NlmyMu3wI0c" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    </div>
+
+  <u>Text Overlays</u>
+    <div style="text-align:center;">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/inj8Esif-iY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    </div>
+
+  <u>Creating Video Overlays</u>
+    <div style="text-align:center;">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/CQ1-wYJCy_s" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    </div>
+
 </details>
