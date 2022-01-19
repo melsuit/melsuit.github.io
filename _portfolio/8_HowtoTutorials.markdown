@@ -8,6 +8,20 @@ img: /img/FeatureProjectImages/H2Tutorials.jpg
 Click on the arrow next to the title to learn more about each project. 
 
 <details>
+  <summary> Adobe Premiere Pro 2020 Basics Primer </summary>
+  <ul style ="list-style'type:disc">
+    <li>Basics primer for getting started with Adobe Premiere Pro 2020 I created to help a training team on another contract. </li>
+  </ul>
+    Files
+    <ul style="list-style'type:none">
+    <li>
+    <a href="/docs/How2Tutorials/Adobe Premiere Pro 2020 Basics Primer.docx" download> Adobe Premiere Pro 2020 Basics Primer
+    </a></li>
+    </ul>
+</details>
+
+
+<details>
   <summary> Google Form Analytics Data Sheet Set-up Tutorial</summary>
   <ul style ="list-style'type:disc">
     <li>Background: In an effort to digitalize curriculum I moved my unit tests to Google Forms. It was lovely to have a self-grading test and the students loved getting their results by the end of class.</li>
