@@ -8,6 +8,53 @@ img: /img/FeatureProjectImages/Film Strip.jpg
 Click on the arrow next to the category to see a skill breakdown. 
 
 <details>
+
+  <summary>Workflow - Video </summary>
+  <u>Storyboarding</u>
+  <ul style ="list-style'type:disc">
+    <li>Final Storyboard for the project. </li>
+  </ul>
+    Files
+    <ul style="list-style'type:none">
+    <li>
+    <a href="/docs/SkillDemos/WorkflowVideo/Final 9-11 Commemorative Storyboard.docx" download> Final 9-11 Commemorative Storyboard
+    </a></li>
+    </ul>
+
+  <u>Client Exchange</u>
+  <ul style ="list-style'type:disc">
+    <li>Summary of the Client communications with the resulting actions that were taken based on the feedback. </li>
+  </ul>
+    Files
+    <ul style="list-style'type:none">
+    <li>
+    <a href="/docs/SkillDemos/WorkflowVideo/Client Exchange Log.docx" download> Client Exchange Log
+    </a></li>
+    </ul>
+
+  <u>First Cut</u>
+    <div style="text-align:center;">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/tJRFAZOcUbI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    </div>
+
+  <u>Option 2</u>
+    <div style="text-align:center;">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/juTcgbW0lOU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    </div>
+
+  <u>Second Cut</u>
+    <div style="text-align:center;">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/Us3teXS65yk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    </div>
+
+  <u>Final Cut</u>
+    <div style="text-align:center;">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/kfSg1v4HhQc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    </div>
+
+</details>
+
+<details>
   <summary>Articulate Storyline</summary>
   <u>Branching</u>
   <ul style ="list-style'type:disc">
