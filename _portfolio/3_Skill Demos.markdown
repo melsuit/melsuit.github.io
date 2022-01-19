@@ -34,22 +34,22 @@ Click on the arrow next to the category to see a skill breakdown.
 
   <u>First Cut</u>
     <div style="text-align:center;">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/tJRFAZOcUbI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    <iframe width="1243" height="699" src="https://www.youtube.com/embed/tJRFAZOcUbI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
 
   <u>Option 2</u>
     <div style="text-align:center;">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/juTcgbW0lOU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    <iframe width="1243" height="699" src="https://www.youtube.com/embed/juTcgbW0lOU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
 
   <u>Second Cut</u>
     <div style="text-align:center;">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/Us3teXS65yk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    <iframe width="1243" height="699" src="https://www.youtube.com/embed/Us3teXS65yk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
 
   <u>Final Cut</u>
     <div style="text-align:center;">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/kfSg1v4HhQc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    <iframe width="1243" height="699" src="https://www.youtube.com/embed/kfSg1v4HhQc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
 
 </details>
