@@ -119,6 +119,11 @@ Click on the arrow next to the category to see a skill breakdown.
     <li>Basic primer for how to build a video using PowerPoint.</li>
     <li><a href="/docs/How2Tutorials/PowerPoints into Videos.docx" download> PowerPoints into Videos Job Aid
     </a></li>
+  <u>DMV Licenses Job Aid</u>
+  <ul style ="list-style'type:disc">
+    <li>Reference sheet to help DMV operators navigate the convoluted topic of Licenses and IDs covered by the Colorado SB251 program</li>
+    <li><a href="/docs/InstructorLedTrainingProjects/DMVLicense/Reference Sheet SB251 License & IDs.docx" download> Reference Sheet Handout
+    </a></li>
 
 </details>
 
