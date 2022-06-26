@@ -19,20 +19,18 @@ Click on the arrow next to the title to learn more about each project.
     <li>A handout with the strategies is needed before moving into the second set of scenarios </li>
     <li> After addressing the second set of scenarios need to address the issue that the strategies are not meant to work in isolation. </li>
     </ol>
+    <li>Created a Instuctor-Led Presentation to simulate what it would look like in a Virtual Presentation</li>
   </ul>
-    Files
+    <u>Files</u>
     <ul style="list-style'type:none">
-    <li>
-    <a href="/docs/InstructorLedTrainingProjects/ConManTrain4Leadership/Conflict Management Training for Leadership.pptx" download> Conflict Management Training for Leadership Powerpoint
+    <li><a href="/docs/InstructorLedTrainingProjects/ConManTrain4Leadership/Conflict Management Training for Leadership.pptx" download> Conflict Management Training for Leadership Powerpoint
     </a></li>
-  <li>
-    <a href="/docs/InstructorLedTrainingProjects/ConManTrain4Leadership/Conflict Management for Leadership Instructor-Led Training Script.docx" download> Conflict Management for Leadership Instructor-Led Training Script
+  <li><a href="/docs/InstructorLedTrainingProjects/ConManTrain4Leadership/Conflict Management for Leadership Instructor-Led Training Script.docx" download> Conflict Management for Leadership Instructor-Led Training Script
     </a></li>
-   <li> Conflict Managment Training for Leadership eLearning Version </li> 
+   <li><a href="https://youtu.be/gb7lN6qUrZE">Conflict Managment Training for Leadership Instructor-Led Virtual Version Presentation
+    </a><li>
     </ul>
-<div style="text-align:center;">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/gb7lN6qUrZE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-    </div>  
+      
 </details>
 
 <details>
@@ -41,7 +39,7 @@ Click on the arrow next to the title to learn more about each project.
    <li> Onboarding Training for those working in the DMV. This is a very convoluted topic with most of the information previously presented in a FAQ format. </li>
    <li> Solution: A quick ten-minute training that presents the information and teaches the new trainees how to use a reference handout through scenario-based Q&A. </li>
   </ul>
-    Files
+    <u>Files</u>
     <ul style="list-style'type:none">
     <li>
     <a href="/docs/InstructorLedTrainingProjects/DMVLicense/DMV SB251 License and IDs Training Script.docx" download> DMV SB251 License and IDs Training Script
@@ -64,7 +62,7 @@ Click on the arrow next to the title to learn more about each project.
   <li> Problem: Corporations are moving to new instant messengers that a portion of their employee base does not know how to use. </li>
   <li> Solution: An Instructor-Led training for how to get started with Skype. Includes a Trainer’s guide. </li>
   </ul>
-    Files
+    <u>Files</u>
     <ul style="list-style'type:none">
   <li>
     <a href="/docs/InstructorLedTrainingProjects/Skype101/Skype 101 Storyboard.jpg" download> Skype 101 Storyboard
@@ -87,7 +85,7 @@ Click on the arrow next to the title to learn more about each project.
   <li>Problem: One aspect of the Department of Marine Resources (DMR) Onboarding was learning how to deliver the facility tour. Training for this was conducted through shadowing a trained presenter for several tours before taking over and being observed.</li>
   <li> Solution: To make it more efficient for next season I created this presentation that was delivered and then given to staff before the shadowing phase.</li>
   </ul>
-    Files
+    <u>Files</u>
     <ul style="list-style'type:none">
     <li>
     <a href="/docs/InstructorLedTrainingProjects/DMROnboarding/Onboarding - Department of Marine Resources Tour Training.pptx" download> Onboarding - Department of Marine Resources Tour Training Powerpoint
@@ -101,7 +99,7 @@ Click on the arrow next to the title to learn more about each project.
   <li> Problem: New science standards are pushing for science teachers to use Inquiry in their classrooms. Most of the current science teachers did not experience Inquiry learning through their personal schooling or education program so they are not familiar with the concept or how to incorporate it into their course. </li>
   <li> Solution: Two-week workshop for teachers based out of an informal education facility (museum, aquarium, zoo, science center, etc). </li>
   </ul>
-    Files
+    <u>Files</u>
     <ul style="list-style'type:none">
     <li>
     <a href="/docs/InstructorLedTrainingProjects/InquiryTeacherWorkshop/Development of an Inquiry Professional Development Workshop in an Informal Institution.docx" download> Development of an Inquiry Professional Development Workshop in an Informal Institution
