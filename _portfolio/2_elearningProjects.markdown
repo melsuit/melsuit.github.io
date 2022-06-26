@@ -65,7 +65,7 @@ Click on the arrow next to the title to learn more about each project.
     <li><a href="/docs/eLearningProjects/GettingStartedwithGoogle/Seg 6 Final Script and Screenshot Capture.docx" download> Seg 6 Final Script and Screenshot Capture
     </a></li>
     <details>
-    <li>Video Files</li>
+    <summary>Video Files</summary>
     <li><a href="https://youtu.be/kg-b6r57gxw">Segment 1 Logging Google Profile into Chrome 
     </a></li>
     <li><a href="https://youtu.be/n3vnUmssiu4"> Segment 2 What is Google Drive
@@ -80,9 +80,6 @@ Click on the arrow next to the title to learn more about each project.
     </a></li>
     </details>        
     </ul>
-    <div style="text-align:center;">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLIovqUPKC1W1e2iCOZdP_TAy0IhSDS_-g" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-    </div>
     
 </details>
 
