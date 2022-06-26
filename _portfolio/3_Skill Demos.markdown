@@ -15,17 +15,22 @@ Click on the arrow next to the category to see a skill breakdown.
     <li>Here is a sample from my latest project that has been genericized to demonstrate this writing style in a Storyboard/Script.</li>
     <li><a href="/docs/TechnicalWritingExamples/S SB&Script Example.docx" download> Scenerio Writing Storyboard/Script Example
     </a></li>
+</ul>
+
   <u> Straight Informational Writing Storyboard/Script Example </u>
   <ul style ="list-style'type:disc">
     <li>Here is a sample from my latest project that has been genericized to demonstrate this writing style in a Storyboard/Script.</li>
     <li><a href="/docs/TechnicalWritingExamples/SI SB&Script Example.docx" download> Straight Informational Writing Storyboard/Script Example
     </a></li>
+</ul>
+
   <u> Straight Informational Writing Text Reference Example </u>
   <ul style ="list-style'type:disc">
     <li>Here is a sample from my latest project that has been genericized to demonstrate this writing style in a Text Reference that would accompany the Video Training.</li>
     <li><a href="/docs/TechnicalWritingExamples/S Text Reference Example.docx" download> Straight Informational Writing Text Reference Example
     </a></li>
-  
+</ul>
+
 </details>
 
 <details>
