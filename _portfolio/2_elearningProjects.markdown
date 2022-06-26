@@ -40,6 +40,8 @@ Click on the arrow next to the title to learn more about each project.
     <li>Technology Used: Microsoft Word, Snag-it (Screen Capture and Screen Recorder), DaVinci Resolve (Audio and Video Editing Software), Articulate 360</li>
   </ul>
     Files
+    <details>
+    <summary>Project Paperwork</summary>
     <ul style="list-style'type:disc">
     <li>
     <a href="/docs/eLearningProjects/GettingStartedwithGoogle/Getting Started with Google Suite Project Management Tracker.docx" download> Getting Started with Google Suite Project Management Tracker
@@ -64,6 +66,7 @@ Click on the arrow next to the title to learn more about each project.
     </a></li>
     <li><a href="/docs/eLearningProjects/GettingStartedwithGoogle/Seg 6 Final Script and Screenshot Capture.docx" download> Seg 6 Final Script and Screenshot Capture
     </a></li>
+    </details>
     <details>
     <summary>Video Files</summary>
     <li><a href="https://youtu.be/kg-b6r57gxw">Segment 1 Logging Google Profile into Chrome 
