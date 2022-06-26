@@ -9,7 +9,7 @@ Click on the arrow next to the category to see a skill breakdown.
 
 <details>
 
-<summary> Technical Writing </summary>
+<summary>Technical Writing </summary>
  <u> Scenerio Writing Storyboard/Script Example </u>
   <ul style ="list-style'type:disc">
     <li>Here is a sample from my latest project that has been genericized to demonstrate this writing style in a Storyboard/Script.</li>
@@ -39,43 +39,28 @@ Click on the arrow next to the category to see a skill breakdown.
   <u>Storyboarding</u>
   <ul style ="list-style'type:disc">
     <li>Final Storyboard for the project. </li>
-  </ul>
-    Files
-    <ul style="list-style'type:none">
-    <li>
-    <a href="/docs/SkillDemos/WorkflowVideo/Final 9-11 Commemorative Storyboard.docx" download> Final 9-11 Commemorative Storyboard
+    <li><a href="/docs/SkillDemos/WorkflowVideo/Final 9-11 Commemorative Storyboard.docx" download> Final 9-11 Commemorative Storyboard
     </a></li>
-    </ul>
-
+  </ul>
+   
   <u>Client Exchange</u>
   <ul style ="list-style'type:disc">
     <li>Summary of the Client communications with the resulting actions that were taken based on the feedback. </li>
-  </ul>
-    Files
-    <ul style="list-style'type:none">
-    <li>
-    <a href="/docs/SkillDemos/WorkflowVideo/Client Exchange Log.docx" download> Client Exchange Log
+    <li><a href="/docs/SkillDemos/WorkflowVideo/Client Exchange Log.docx" download> Client Exchange Log
     </a></li>
-    </ul>
-
+  </ul>
+  
   <u>First Cut</u>
-    <a href="https://youtu.be/tJRFAZOcUbI">  
-    </a>
+    <a href="https://youtu.be/tJRFAZOcUbI">Video Link</a>
 
   <u>Option 2</u>
-    <a href="https://youtu.be/juTcgbW0lOU"> 
-    </a>
-
+    <a href="https://youtu.be/juTcgbW0lOU">Video Link</a>
 
   <u>Second Cut</u>
-    <a href="https://youtu.be/Us3teXS65yk">  
-    </a>
-
+    <a href="https://youtu.be/Us3teXS65yk">Video Link</a>
 
   <u>Final Cut</u>
-    <a href="https://youtu.be/kfSg1v4HhQc"> 
-    </a>
-
+    <a href="https://youtu.be/kfSg1v4HhQc">Video Link</a>
 
 </details>
 
@@ -85,14 +70,12 @@ Click on the arrow next to the category to see a skill breakdown.
   <ul style ="list-style'type:disc">
     <li>Through the use of triggers depending on how the user response depends on where they are directed to next for the lesson.</li>
   </ul>
-   <a href="https://youtu.be/iBrhV_X566Y"> 
-    </a>
+   <a href="https://youtu.be/iBrhV_X566Y">Video Link</a>
 
   <u>Triggers, Overlays, and Assessment</u>
   <ul style ="list-style'type:disc">
     <li>Short scene from Conflict Management for Leadership that utilizes triggers to progress the scene, overlays of multiple text boxes and character on a single slide, along with a check for understanding assessment.</li>
-   <a href="https://youtu.be/JjsJRO75p04"> 
-    </a>
+   <a href="https://youtu.be/JjsJRO75p04">Video Link</a>
 
 </details>
 
@@ -100,24 +83,19 @@ Click on the arrow next to the category to see a skill breakdown.
 
   <summary>Video Editing</summary>
   <u>Deleting a Segment</u>
-   <a href="https://youtu.be/7vO9wq4YaZA"> 
-    </a>
+   <a href="https://youtu.be/7vO9wq4YaZA">Video Link</a>
 
   <u>Extending Slide to Match Audio</u>
-   <a href="https://youtu.be/lyKQtFMv0TE"> 
-    </a>
+   <a href="https://youtu.be/lyKQtFMv0TE"></a>
 
   <u>Replacing Segment and Audio</u>
-   <a href="https://youtu.be/NlmyMu3wI0c"> 
-    </a>
+   <a href="https://youtu.be/NlmyMu3wI0c">Video Link</a>
 
   <u>Text Overlays</u>
-   <a href="https://youtu.be/inj8Esif-iY"> 
-    </a>
+   <a href="https://youtu.be/inj8Esif-iY">Video Link</a>
 
   <u>Creating Video Overlays</u>
-   <a href="https://youtu.be/CQ1-wYJCy_s"> 
-    </a>
+   <a href="https://youtu.be/CQ1-wYJCy_s">Video Link</a>
 
 </details>
 
