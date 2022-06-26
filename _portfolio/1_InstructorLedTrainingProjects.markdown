@@ -28,7 +28,7 @@ Click on the arrow next to the title to learn more about each project.
   <li><a href="/docs/InstructorLedTrainingProjects/ConManTrain4Leadership/Conflict Management for Leadership Instructor-Led Training Script.docx" download> Conflict Management for Leadership Instructor-Led Training Script
     </a></li>
    <li><a href="https://youtu.be/gb7lN6qUrZE">Conflict Managment Training for Leadership Instructor-Led Virtual Version Presentation
-    </a><li>
+    </a></li>
     </ul>
       
 </details>
