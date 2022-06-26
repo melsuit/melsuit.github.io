@@ -10,38 +10,22 @@ Click on the arrow next to the category to see a skill breakdown.
 <details>
 
 <summary> Technical Writing </summary>
- 
- <summary> Scenerio Writing Storyboard/Script Example </summary>
+ <u> Scenerio Writing Storyboard/Script Example </u>
   <ul style ="list-style'type:disc">
     <li>Here is a sample from my latest project that has been genericized to demonstrate this writing style in a Storyboard/Script.</li>
-  </ul>
-    Files
-    <ul style="list-style'type:none">
-    <li>
-    <a href="/docs/TechnicalWritingExamples/S SB&Script Example.docx" download> Scenerio Writing Storyboard/Script Example
+    <li><a href="/docs/TechnicalWritingExamples/S SB&Script Example.docx" download> Scenerio Writing Storyboard/Script Example
     </a></li>
-    </ul>
-    <summary> Straight Informational Writing Storyboard/Script Example </summary>
+  <u> Straight Informational Writing Storyboard/Script Example </u>
   <ul style ="list-style'type:disc">
     <li>Here is a sample from my latest project that has been genericized to demonstrate this writing style in a Storyboard/Script.</li>
-  </ul>
-    Files
-    <ul style="list-style'type:none">
-    <li>
-    <a href="/docs/TechnicalWritingExamples/SI SB&Script Example.docx" download> Straight Informational Writing Storyboard/Script Example
+    <li><a href="/docs/TechnicalWritingExamples/SI SB&Script Example.docx" download> Straight Informational Writing Storyboard/Script Example
     </a></li>
-    </ul>
-     <summary> Straight Informational Writing Text Reference Example </summary>
+  <u> Straight Informational Writing Text Reference Example </u>
   <ul style ="list-style'type:disc">
     <li>Here is a sample from my latest project that has been genericized to demonstrate this writing style in a Text Reference that would accompany the Video Training.</li>
-  </ul>
-    Files
-    <ul style="list-style'type:none">
-    <li>
-    <a href="/docs/TechnicalWritingExamples/S Text Reference Example.docx" download> Straight Informational Writing Text Reference Example
+    <li><a href="/docs/TechnicalWritingExamples/S Text Reference Example.docx" download> Straight Informational Writing Text Reference Example
     </a></li>
-    </ul>
-
+  
 </details>
 
 <details>
