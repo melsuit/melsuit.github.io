@@ -65,24 +65,6 @@ Click on the arrow next to the category to see a skill breakdown.
 </details>
 
 <details>
-  <summary>Articulate Storyline</summary>
-  <u>Branching</u>
-  <ul style ="list-style'type:disc">
-    <li>Through the use of triggers depending on how the user response depends on where they are directed to next for the lesson.</li>
-    <li><a href="https://youtu.be/iBrhV_X566Y"> Video Link 
-    </a></li>
-    </ul>
-
-  <u>Triggers, Overlays, and Assessment</u>
-  <ul style ="list-style'type:disc">
-    <li>Short scene from Conflict Management for Leadership that utilizes triggers to progress the scene, overlays of multiple text boxes and character on a single slide, along with a check for understanding assessment.</li>
-    <li><a href="https://youtu.be/JjsJRO75p04"> Video Link 
-    </a></li>
-    </ul>
-
-</details>
-
-<details>
 
   <summary>Video Editing</summary>
   <u>Deleting a Segment</u>
@@ -121,5 +103,39 @@ Click on the arrow next to the category to see a skill breakdown.
 		Getting Started with Skype eLearning Storyboard (eLearning)
 	</div>
 </div>
+
+</details>
+
+<details>
+  <summary>Job Aids</summary>
+  <u>Adobe Premiere Pro 2020 Basics Primer</u>
+  <ul style ="list-style'type:disc">
+    <li>Basics primer for getting started with Adobe Premiere Pro 2020 I created to help a training team on another contract. </li>
+    <li><a href="/docs/How2Tutorials/Adobe Premiere Pro 2020 Basics Primer.docx" download> Adobe Premiere Pro 2020 Basics Primer
+    </a></li>
+  </ul>
+  <u>PowerPoints into Videos</u>
+  <ul style ="list-style'type:disc">
+    <li>Basic primer for how to build a video using PowerPoint.</li>
+    <li><a href="/docs/How2Tutorials/PowerPoints into Videos.docx" download> PowerPoints into Videos Job Aid
+    </a></li>
+
+</details>
+
+<details>
+  <summary>Articulate Storyline</summary>
+  <u>Branching</u>
+  <ul style ="list-style'type:disc">
+    <li>Through the use of triggers depending on how the user response depends on where they are directed to next for the lesson.</li>
+    <li><a href="https://youtu.be/iBrhV_X566Y"> Video Link 
+    </a></li>
+    </ul>
+
+  <u>Triggers, Overlays, and Assessment</u>
+  <ul style ="list-style'type:disc">
+    <li>Short scene from Conflict Management for Leadership that utilizes triggers to progress the scene, overlays of multiple text boxes and character on a single slide, along with a check for understanding assessment.</li>
+    <li><a href="https://youtu.be/JjsJRO75p04"> Video Link 
+    </a></li>
+    </ul>
 
 </details>
