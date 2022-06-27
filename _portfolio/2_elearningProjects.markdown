@@ -50,29 +50,29 @@ Click on the arrow next to the title to learn more about each project.
     <li>
     <a href="/docs/eLearningProjects/GettingStartedwithGoogle/Seg 1 Final Script and Screenshot Capture.docx" download> Seg 1 Final Script and Screenshot Capture
     </a></li>
+    <li><a href="https://youtu.be/kg-b6r57gxw">Segment 1 Logging Google Profile into Chrome 
+    </a></li>
     <li>
     <a href="/docs/eLearningProjects/GettingStartedwithGoogle/Seg 2 Final Script and Screenshot Capture.docx" download> Seg 2 Final Script and Screenshot Capture 
     </a></li>
+    <li><a href="https://youtu.be/n3vnUmssiu4"> Segment 2 What is Google Drive
+    </a></li>    
     <li>
     <a href="/docs/eLearningProjects/GettingStartedwithGoogle/Seg 3 Final Script and Screenshot Capture.docx" download> Seg 3 Final Script and Screenshot Capture
+    </a></li>
+    <li><a href="https://youtu.be/Y6PYYRoZ2Mw"> Segment 3 Google Docs
     </a></li>
     <li>
     <a href="/docs/eLearningProjects/GettingStartedwithGoogle/Seg 4 Final Script and Screenshot Capture.docx" download> Seg 4 Final Script and Screenshot Capture
     </a></li>
+    <li><a href="https://youtu.be/3DPAPIFjFes"> Segment 4 Google Slides
+    </a></li>
     <li>
     <a href="/docs/eLearningProjects/GettingStartedwithGoogle/Seg 5 Final Script and Screenshot Capture.docx" download> Seg 5 Final Script and Screenshot Capture
     </a></li>
-    <li><a href="/docs/eLearningProjects/GettingStartedwithGoogle/Seg 6 Final Script and Screenshot Capture.docx" download> Seg 6 Final Script and Screenshot Capture
-    </a></li>
-    <li><a href="https://youtu.be/kg-b6r57gxw">Segment 1 Logging Google Profile into Chrome 
-    </a></li>
-    <li><a href="https://youtu.be/n3vnUmssiu4"> Segment 2 What is Google Drive
-    </a></li>
-    <li><a href="https://youtu.be/Y6PYYRoZ2Mw"> Segment 3 Google Docs
-    </a></li>
-    <li><a href="https://youtu.be/3DPAPIFjFes"> Segment 4 Google Slides
-    </a></li>
     <li><a href="https://youtu.be/yQ7e_rp-0-c"> Segment 5 Google Sheets
+    </a></li>
+    <li><a href="/docs/eLearningProjects/GettingStartedwithGoogle/Seg 6 Final Script and Screenshot Capture.docx" download> Seg 6 Final Script and Screenshot Capture
     </a></li>
     <li><a href="https://youtu.be/X8S_q5h_B18"> Segment 6 Google Forms
     </a></li>  
