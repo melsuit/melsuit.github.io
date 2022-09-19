@@ -18,7 +18,7 @@ Click on the arrow next to the title to learn more about each project.
 </details>
 
 <details>
-  <summary> Conflict Management for Leadership eLearning Version </summary>
+  <summary>Conflict Management for Leadership eLearning Version</summary>
   <ul style ="list-style'type:disc">
     <li>eLearning</li>
     <li>After creating my instructor-led version I was inspired to try a twist on a treasure map approach for an eLearning module.</li>
@@ -92,7 +92,7 @@ Click on the arrow next to the title to learn more about each project.
 </details>
 
 <details>
-  <summary> Getting Started with Google Suite </summary>
+  <summary>Getting Started with Google Suite</summary>
   <ul style ="list-style'type:disc">
     <li>Video Learning</li>
     <li>Redeveloped after school claimed originals that I had used with my teammates.</li>
@@ -141,7 +141,7 @@ Click on the arrow next to the title to learn more about each project.
 </details>
 
 <details>
-  <summary> Getting Started with Skype </summary>
+  <summary>Getting Started with Skype</summary>
   <ul style ="list-style'type:disc">
     <li>Video Learning</li>
     <li>Problem: Corporations are moving to new instant messengers that a portion of their employee base does not know how to use.</li>
@@ -188,7 +188,7 @@ Click on the arrow next to the title to learn more about each project.
 </details>
 
 <details>
-  <summary> Articulate Storyline: Classification Unit </summary>
+  <summary>Articulate Storyline: Classification Unit</summary>
   <ul style ="list-style'type:disc">
     <li>eLearning</li>
     <li>Originally this was designed for an Instructor-Led class. It is based on the conceptual change model. I migrated the lesson over to an eLearning opportunity for a few students who were suspended for the entire unit, so they could work on it at home and stay caught up with the class.</li>
