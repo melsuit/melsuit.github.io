@@ -2,7 +2,7 @@
 layout: post
 title: Work Example Projects
 description: Click to View Projects
-img: /img/FeatureProjectImages/ILTP Featured Image.jpg
+img: /img/FeatureProjectImages/Project Icon.png
 ---
 
 
